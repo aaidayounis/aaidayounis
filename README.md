@@ -97,4 +97,4 @@ Goals:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 
-</div><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5efdc66c-5f17-4c0f-b4ee-59ad4b4ee676" />
+</div>
